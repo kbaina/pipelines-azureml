@@ -4,8 +4,8 @@ on: [push]
 
 env:
   ml-ws-connection: azmldemows
-  ml-ws: aml-demo
-  ml-rg: aml-demo
+  ml-ws: aml-demokb
+  ml-rg: aml-demokb
   ml-ct: cpu-cluster-1
   ml-path: models/diabetes
   ml-exp: exp-test 
